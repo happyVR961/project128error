@@ -1,0 +1,560 @@
+Name,Distance,Mass,Radius
+
+[],"<a href=""/wiki/Sun"" title=""Sun"">Sun</a>"," 
+","0.000015813
+","G2
+","1
+","1
+","1
+"
+[],"<a href=""/wiki/Sirius"" title=""Sirius"">Sirius</a>","α CMa
+","<span style=""display:none"">000</span>","A1
+","2.1
+","1.71´
+","25.4
+"
+[],"<a href=""/wiki/Canopus"" title=""Canopus"">Canopus</a>","α Car
+","<span style=""display:none"">0</span>","A9
+","15
+","71
+","13,500
+"
+[],"<a href=""/wiki/Alpha_Centauri"" title=""Alpha Centauri"">Alpha Centauri</a>","<a href=""/wiki/Alpha_Centauri"" title=""Alpha Centauri"">α Cen</a>","<span style=""display:none"">000</span>","G2
+","1.1
+","1.2
+","2
+"
+[],"<a href=""/wiki/Arcturus"" title=""Arcturus"">Arcturus</a>","α Boo
+","<span style=""display:none"">00</span>","K2
+","1.1
+","26
+","170
+"
+[],"<a href=""/wiki/Vega"" title=""Vega"">Vega</a>","α Lyr
+","<span style=""display:none"">00</span>","A0
+","2.2
+","2.7
+","50
+"
+[],"<a href=""/wiki/Capella"" title=""Capella"">Capella</a>","α Aur
+","<span style=""display:none"">00</span>","G8
+","2.6
+","12
+","150
+"
+[],"<a href=""/wiki/Rigel"" title=""Rigel"">Rigel</a>","β Ori
+","<span style=""display:none"">0</span>","B8
+","23
+","78.9
+","120,000
+"
+[],"<a href=""/wiki/Procyon"" title=""Procyon"">Procyon</a>","α CMi
+","<span style=""display:none"">00</span>","F5
+","1.5
+","1.9
+","7.7
+"
+[],"<a href=""/wiki/Betelgeuse"" title=""Betelgeuse"">Betelgeuse</a>","α Ori
+","<span style=""display:none"">0</span>","M2
+","20
+","950
+","60,000
+"
+[],"<a href=""/wiki/Achernar"" title=""Achernar"">Achernar</a>","α Eri
+","<span style=""display:none"">0</span>","B3
+","6.7
+","9.3
+","3,000
+"
+[],"<a href=""/wiki/Beta_Centauri"" title=""Beta Centauri"">Hadar</a>","<a href=""/wiki/Beta_Centauri"" title=""Beta Centauri"">β Cen</a>","<span style=""display:none"">0</span>","B1
+","10.5
+","8.6
+","42,000
+"
+[],"<a href=""/wiki/Altair"" title=""Altair"">Altair</a>","α Aql
+","<span style=""display:none"">00</span>","A7
+","1.8
+","1.8
+","10.5
+"
+[],"<a href=""/wiki/Acrux"" title=""Acrux"">Acrux</a>","<a class=""mw-redirect"" href=""/wiki/Alpha_Crucis"" title=""Alpha Crucis"">α Cru</a>","<span style=""display:none"">0</span>","B0.5
+","18
+","8.9
+","25,000
+"
+[],"<a href=""/wiki/Aldebaran"" title=""Aldebaran"">Aldebaran</a>","α Tau
+","<span style=""display:none"">00</span>","K5
+","1.5
+","44
+","520
+"
+[],"<a href=""/wiki/Antares"" title=""Antares"">Antares</a>","α Sco
+","<span style=""display:none"">0</span>","M1.5
+","12
+","680
+","75,000
+"
+[],"<a href=""/wiki/Spica"" title=""Spica"">Spica</a>","α Vir
+","<span style=""display:none"">0</span>","B1
+","11.43
+","7.47
+","20,512
+"
+[],"<a href=""/wiki/Pollux_(star)"" title=""Pollux (star)"">Pollux</a>","β Gem
+","<span style=""display:none"">00</span>","K0
+","1.9
+","8.8
+","43
+"
+[],"<a href=""/wiki/Fomalhaut"" title=""Fomalhaut"">Fomalhaut</a>","α PsA
+","<span style=""display:none"">00</span>","A3
+","1.9
+","1.8
+","16.6
+"
+[],"<a href=""/wiki/Deneb"" title=""Deneb"">Deneb</a>","α Cyg
+","2,600
+","A2
+","19
+","203
+","200,000
+"
+[],"<a href=""/wiki/Mimosa"" title=""Mimosa"">Mimosa</a>","<a class=""mw-redirect"" href=""/wiki/Beta_Crucis"" title=""Beta Crucis"">β Cru</a>","<span style=""display:none"">0</span>","B0.5
+","16
+","8.4
+","34,000
+"
+[],"<a href=""/wiki/Regulus"" title=""Regulus"">Regulus</a>","α Leo
+","<span style=""display:none"">00</span>","B7
+","3.8
+","3.1
+","290
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Adhara"" title=""Adhara"">Adhara</a>","<a href=""/wiki/Epsilon_Canis_Majoris"" title=""Epsilon Canis Majoris"">ε CMa</a>","<span style=""display:none"">0</span>","B2
+","12.5
+","14
+","39,000
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Shaula"" title=""Shaula"">Shaula</a>","<a href=""/wiki/Lambda_Scorpii"" title=""Lambda Scorpii"">λ Sco</a>","<span style=""display:none"">0</span>","B2
+","14.5
+","8.8
+","36,000
+"
+[],"<a href=""/wiki/Castor_(star)"" title=""Castor (star)"">Castor</a>","α Gem
+","<span style=""display:none"">00</span>","A1
+","2.8
+","2.4
+","30
+"
+[],"<a href=""/wiki/Gacrux"" title=""Gacrux"">Gacrux</a>","<a class=""mw-redirect"" href=""/wiki/Gamma_Crucis"" title=""Gamma Crucis"">γ Cru</a>","<span style=""display:none"">00</span>","M3.5
+","1.5
+","84
+","820
+"
+[],"<a href=""/wiki/Bellatrix"" title=""Bellatrix"">Bellatrix</a>","<a class=""mw-redirect"" href=""/wiki/Gamma_Orionis"" title=""Gamma Orionis"">γ Ori</a>","<span style=""display:none"">0</span>","B2
+","8.6
+","5.8
+","9,200
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Elnath"" title=""Elnath"">Elnath</a>","<a href=""/wiki/Beta_Tauri"" title=""Beta Tauri"">β Tau</a>","<span style=""display:none"">0</span>","B7
+","5.0
+","4.2
+","700
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Miaplacidus"" title=""Miaplacidus"">Miaplacidus</a>","<a href=""/wiki/Beta_Carinae"" title=""Beta Carinae"">β Car</a>","<span style=""display:none"">0</span>","A1
+","3.5
+","6.8
+","290
+"
+[],"<a href=""/wiki/Alnilam"" title=""Alnilam"">Alnilam</a>","ε Ori
+","2,000
+","B0
+","32
+","42
+","380,000
+"
+[],"<a href=""/wiki/Gamma_Velorum"" title=""Gamma Velorum"">Gamma Velorum</a>","<a href=""/wiki/Gamma_Velorum"" title=""Gamma Velorum"">γ<sup>1,2</sup> Vel</a>","<span style=""display:none"">0</span>","WC8
+","9.0
+","6
+","170,000
+"
+[],"<a href=""/wiki/Alpha_Gruis"" title=""Alpha Gruis"">Alnair</a>","<a href=""/wiki/Alpha_Gruis"" title=""Alpha Gruis"">α Gru</a>","<span style=""display:none"">0</span>","B7
+","4.0
+","3.4
+","260
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Alioth"" title=""Alioth"">Alioth</a>","<a href=""/wiki/Epsilon_Ursae_Majoris"" title=""Epsilon Ursae Majoris"">ε UMa</a>","<span style=""display:none"">00</span>","A1
+","2.9
+","4.2
+","110
+"
+[],"<a href=""/wiki/Alnitak"" title=""Alnitak"">Alnitak</a>","ζ Ori
+","<span style=""display:none"">0</span>","O9.7
+","33
+","20
+","120,000
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Dubhe"" title=""Dubhe"">Dubhe</a>","<a href=""/wiki/Alpha_Ursae_Majoris"" title=""Alpha Ursae Majoris"">α UMa</a>","<span style=""display:none"">0</span>","G9
+","4.25
+","30
+","300
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Mirfak"" title=""Mirfak"">Mirfak</a>","<a href=""/wiki/Alpha_Persei"" title=""Alpha Persei"">α Per</a>","<span style=""display:none"">0</span>","F5
+","8.5
+","68
+","5,000
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Wezen"" title=""Wezen"">Wezen</a>","<a href=""/wiki/Delta_Canis_Majoris"" title=""Delta Canis Majoris"">δ CMa</a>","1,600
+","F8
+","17
+","200
+","82,000
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Sargas"" title=""Sargas"">Sargas</a>","<a href=""/wiki/Theta_Scorpii"" title=""Theta Scorpii"">θ Sco</a>","<span style=""display:none"">0</span>","F0
+","5.7
+","26
+","1,800
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Kaus_Australis"" title=""Kaus Australis"">Kaus Australis</a>","<a href=""/wiki/Epsilon_Sagittarii"" title=""Epsilon Sagittarii"">ε Sgr</a>","<span style=""display:none"">0</span>","B9.5
+","3.5
+","6.8
+","360
+"
+[],"<a href=""/wiki/Epsilon_Carinae"" title=""Epsilon Carinae"">Avior</a>","<a href=""/wiki/Epsilon_Carinae"" title=""Epsilon Carinae"">ε Car</a>","<span style=""display:none"">0</span>","K3
+","9.0
+","130
+","60,000
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Alkaid"" title=""Alkaid"">Alkaid</a>","<a href=""/wiki/Eta_Ursae_Majoris"" title=""Eta Ursae Majoris"">η UMa</a>","<span style=""display:none"">0</span>","B3
+","6.1
+","3.4
+","1,350
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Menkalinan"" title=""Menkalinan"">Menkalinan</a>","<a href=""/wiki/Beta_Aurigae"" title=""Beta Aurigae"">β Aur</a>","<span style=""display:none"">0</span>","A1
+","2.39
+","2.77
+","50
+"
+[],"Atria
+","<a href=""/wiki/Alpha_Trianguli_Australis"" title=""Alpha Trianguli Australis"">α TrA</a>","<span style=""display:none"">0</span>","K2
+","7
+","92
+","5,500
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Alhena"" title=""Alhena"">Alhena</a>","<a href=""/wiki/Gamma_Geminorum"" title=""Gamma Geminorum"">γ Gem</a>","<span style=""display:none"">0</span>","A1.5
+","2.8
+","3.3
+","120
+"
+[],"Peacock
+","<a href=""/wiki/Alpha_Pavonis"" title=""Alpha Pavonis"">α Pav</a>","<span style=""display:none"">0</span>","B3
+","5.9
+","4.8
+","2,200
+"
+[],Alsephina,"<a href=""/wiki/Delta_Velorum"" title=""Delta Velorum"">δ Vel</a>","<span style=""display:none"">00</span>","A1
+","2.4
+","2.9
+","90
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Mirzam"" title=""Mirzam"">Mirzam</a>","<a href=""/wiki/Beta_Canis_Majoris"" title=""Beta Canis Majoris"">β CMa</a>","<span style=""display:none"">0</span>","B1
+","13.5
+","10
+","27,000
+"
+[],"<a href=""/wiki/Polaris"" title=""Polaris"">Polaris</a>","α UMi
+","<span style=""display:none"">0</span>","F8
+","5.4
+","39
+","2,500
+"
+[],"<a href=""/wiki/Alphard"" title=""Alphard"">Alphard</a>","α Hya
+","<span style=""display:none"">0</span>","K3
+","3.0
+","50
+","780
+"
+[],"<a href=""/wiki/Mintaka"" title=""Mintaka"">Mintaka</a>","δ Ori
+","<span style=""display:none"">0</span>","O9.5
+","24
+","16.5
+","190,000
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Scheat"" title=""Scheat"">Scheat</a>","<a href=""/wiki/Beta_Pegasi"" title=""Beta Pegasi"">β Peg</a>","<span style=""display:none"">0</span>","M2.5
+","2.1
+","95
+","1,500
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Almaaz"" title=""Almaaz"">Almaaz</a>","<a href=""/wiki/Epsilon_Aurigae"" title=""Epsilon Aurigae"">ε Aur</a>","<span style=""display:none"">0</span>","F0
+","15
+","140
+","43,000
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Rasalgethi"" title=""Rasalgethi"">Rasalgethi</a>","<a href=""/wiki/Alpha_Herculis"" title=""Alpha Herculis"">α Her</a>","<span style=""display:none"">0</span>","M5
+","2.8
+","280
+","8,300
+"
+[],"<a href=""/wiki/Tau_Ceti"" title=""Tau Ceti"">Tau Ceti</a>","τ Cet
+","<span style=""display:none"">0</span>","G8
+","0.783
+","0.893
+","0.52
+"
+[],"<a href=""/wiki/Delta_Pavonis"" title=""Delta Pavonis"">Delta Pavonis</a>","δ Pav
+","<span style=""display:none"">0</span>","G8
+","0.991
+","1.22
+","1.22
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Ran_(star)"" title=""Ran (star)"">Ran</a>","ε Eri
+","<span style=""display:none"">0</span>","K2
+","0.82
+","0.74
+","0.34
+"
+[],"<a href=""/wiki/V382_Carinae"" title=""V382 Carinae"">V382 Carinae</a>","Car
+","<span style=""display:none"">0</span>","G2
+","20
+","485
+","212,000
+"
+[],"<a href=""/wiki/Eta_Carinae"" title=""Eta Carinae"">Eta Carinae</a>","η Car
+","<span style=""display:none"">0</span>","O
+","100
+","60–881
+","5,000,000
+"
+[],"<a href=""/wiki/Delta_Cephei"" title=""Delta Cephei"">Delta Cephei</a>","δ Cep
+","<span style=""display:none"">0</span>","F5
+","4.5
+","44.5
+","2,000
+"
+[],"<a href=""/wiki/Mu_Cephei"" title=""Mu Cephei"">Mu Cephei</a>","μ Cep
+","<span style=""display:none"">0</span>","M2
+","19.2
+","972
+","135,000
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Titawin"" title=""Titawin"">Titawin</a>","υ And
+","<span style=""display:none"">0</span>","F8
+","1.27
+","1.48
+","3.57
+"
+[],"<a href=""/wiki/Rho_Cassiopeiae"" title=""Rho Cassiopeiae"">Rho Cassiopeiae</a>","ρ Cas
+","<span style=""display:none"">0</span>","G2
+","22
+","636-981
+","347,000 - 530,000
+"
+[],"<a href=""/wiki/P_Cygni"" title=""P Cygni"">P Cygni</a>","P Cyg
+","<span style=""display:none"">0</span>","B1
+","30
+","76
+","610,000
+"
+[],"<a href=""/wiki/La_Superba"" title=""La Superba"">La Superba</a>","CVn
+","<span style=""display:none"">0</span>","C5
+","
+","129 - 342
+","2,472 - 5,800
+"
+[],"<a href=""/wiki/VV_Cephei"" title=""VV Cephei"">VV Cephei</a>","Cep
+","<span style=""display:none"">0</span>","M2
+","18.2
+","516 - 1,050
+","200,000
+"
+[],"<a href=""/wiki/61_Cygni"" title=""61 Cygni"">61 Cygni</a>","Cyg
+","<span style=""display:none"">0</span>","K5
+","0.7
+","0.665
+","0.153
+"
+[],"<a href=""/wiki/R_Doradus"" title=""R Doradus"">R Doradus</a>","Dor
+","<span style=""display:none"">0</span>","M8
+","0.7 - 1.0
+","298
+","4,350
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Polaris_Australis"" title=""Polaris Australis"">Polaris Australis</a>","Oct
+","<span style=""display:none"">0</span>","F0
+","1.59
+","3.74
+","38
+"
+[],"<a href=""/wiki/R_Coronae_Borealis"" title=""R Coronae Borealis"">R Coronae Borealis</a>","Bor
+","<span style=""display:none"">0</span>","G0
+","0.85
+","85
+","10,000
+"
+[],"<a href=""/wiki/54_Piscium"" title=""54 Piscium"">54 Piscium</a>","Psc
+","<span style=""display:none"">0</span>","K0
+","0.76
+","0.94
+","0.52
+"
+[],"<a href=""/wiki/Mira"" title=""Mira"">Mira</a>","<a class=""mw-redirect"" href=""/wiki/Omicron_Ceti"" title=""Omicron Ceti"">ο Ceti</a>","<span style=""display:none"">0</span>","M7
+","1.2
+","370
+","9,000
+"
+[],"<a href=""/wiki/RW_Cephei"" title=""RW Cephei"">RW Cephei</a>","Cep
+","<span style=""display:none"">0</span>","K2
+","13.9
+","1,158
+","417,000
+"
+[],"<a href=""/wiki/Lacaille_8760"" title=""Lacaille 8760"">Lacaille 8760</a>","Mic
+","<span style=""display:none"">0</span>","M0
+","0.6
+","0.51
+","0.072
+"
+[],"<a href=""/wiki/V838_Monocerotis"" title=""V838 Monocerotis"">V838 Monocerotis</a>","Mon
+","<span style=""display:none"">0</span>","M6
+","?
+","380 - 750
+","15,000
+"
+[],"<a href=""/wiki/HD_140283"" title=""HD 140283"">HD 140283</a>","Lib
+","<span style=""display:none"">0</span>","F?
+","?
+","1.4
+","3.83
+"
+[],"<a href=""/wiki/II_Pegasi"" title=""II Pegasi"">II Pegasi</a>","Peg
+","<span style=""display:none"">0</span>","K2
+","0.8
+","3.4
+","1.06
+"
+[],"<a href=""/wiki/VY_Canis_Majoris"" title=""VY Canis Majoris"">VY Canis Majoris</a>","CMa
+","<span style=""display:none"">0</span>","M5
+","17
+","1,420
+","178,000 - 270,000
+"
+[],"<a href=""/wiki/Pistol_Star"" title=""Pistol Star"">Pistol Star</a>","Sgr
+","<span style=""display:none"">0</span>","B3
+","100
+","320
+","1,700,000
+"
+[],"<a href=""/wiki/S_Doradus"" title=""S Doradus"">S Doradus</a>","Dor
+","<span style=""display:none"">0</span>","B8
+","24
+","380
+","910,000
+"
+[],"<a href=""/wiki/UY_Scuti"" title=""UY Scuti"">UY Scuti</a>","Sct
+","<span style=""display:none"">0</span>","M4
+","7–10
+","755
+","86,300 - 87,100
+"
+[],"<a href=""/wiki/Barnard%27s_Star"" title=""Barnard's Star"">Barnard's Star</a>","Oph
+","<span style=""display:none"">0</span>","M4
+","0.14
+","0.20
+","0.0035
+"
+[],"<a href=""/wiki/Luhman_16"" title=""Luhman 16"">Luhman 16</a>","Vel
+","<span style=""display:none"">0</span>","L7
+","0.04
+","?
+","?
+"
+[],"<a href=""/wiki/Proxima_Centauri"" title=""Proxima Centauri"">Proxima Centauri</a>","Cen
+","<span style=""display:none"">0</span>","M6
+","0.12
+","0.15
+","0.0017
+"
+[],"<a class=""mw-redirect"" href=""/wiki/KIC_8462852"" title=""KIC 8462852"">KIC 8462852</a>","Cyg
+","<span style=""display:none"">0</span>","F3
+","1.43
+","1.58
+","4.68
+"
+[],"<a href=""/wiki/R136a1"" title=""R136a1"">R136a1</a>","Dor
+","<span style=""display:none"">0</span>","WN5
+","290
+","32
+","8,710,000
+"
+[],"<a href=""/wiki/Melnick_42"" title=""Melnick 42"">Melnick 42</a>","Dor
+","<span style=""display:none"">0</span>","O2
+","189
+","21.1
+","3,600,000
+"
+[],"<a href=""/wiki/WR_102"" title=""WR 102"">WR 102</a>","Sag
+","<span style=""display:none"">0</span>","WO2
+","19
+","0.39
+","282,000
+"
+[],"<a href=""/wiki/VFTS_352"" title=""VFTS 352"">VFTS 352</a>","Dor
+","<span style=""display:none"">0</span>","O5
+","57.48
+","14.47
+","330,000
+"
+[],"<a href=""/wiki/YBP_1194"" title=""YBP 1194"">YBP 1194</a>","Cnc
+","<span style=""display:none"">0</span>","G5
+","1.01
+","0.99
+","0.98
+"
+[],"<a href=""/wiki/Gliese_1214"" title=""Gliese 1214"">Gliese 1214</a>","Oph
+","<span style=""display:none"">0</span>","M4.5
+","0.16
+","0.21
+","0.0033
+"
+[],"<a href=""/wiki/NML_Cygni"" title=""NML Cygni"">NML Cygni</a>","Cyg
+","<span style=""display:none"">0</span>","M6
+","50
+","1,640 - 2,770
+","229,000
+"
+[],"<a href=""/wiki/VB_10"" title=""VB 10"">VB 10</a>","Aql
+","<span style=""display:none"">0</span>","M8
+","0.075
+","0.10
+","0.0004
+"
+[],"<a href=""/wiki/WOH_G64"" title=""WOH G64"">WOH G64</a>","Dor
+","<span style=""display:none"">0</span>","M5
+","<20
+","1,540 - 1,730
+","340-589,000
+"
+[],"<a href=""/wiki/TRAPPIST-1"" title=""TRAPPIST-1"">TRAPPIST-1</a>","Aqr
+","<span style=""display:none"">0</span>","M8
+","0.089
+","0.12
+","0.0005
+"
+[],"<a class=""mw-redirect"" href=""/wiki/2MASS_J0523-1403"" title=""2MASS J0523-1403"">2MASS J0523-1403</a>","Lep
+","<span style=""display:none"">0</span>","L2.5
+","0.07
+","0.086
+","0.00013
+"
+[],"<a href=""/wiki/WISE_0855%E2%88%920714"" title=""WISE 0855−0714"">WISE 0855−0714</a>","Hya
+","<span style=""display:none"">0</span>","Y2
+","0.003
+","?
+","?
+"
+[],"<a class=""mw-redirect"" href=""/wiki/Icarus_(star)"" title=""Icarus (star)"">Icarus</a>","Leo
+","<span style=""display:none"">0</span>","B?
+","33
+","?
+","850,000
+"
